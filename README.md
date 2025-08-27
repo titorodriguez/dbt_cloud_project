@@ -1,2 +1,2 @@
 # dbt_cloud_project
-Repository to build dbt project with snowflake
+Repository to build a dbt cloud project with snowflake
